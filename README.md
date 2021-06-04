@@ -2,17 +2,19 @@
 <!-- ![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif "Link to gif")
 -->
 
-<img align='center' width="100%" height="400px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
+<img align="right" width="550px" height="400px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 ### 👋Hi! I am Madhusree Bera
 - 🔭 I’m currently working on website of EDGE (tech-fest of my college) as a front-end developer
 - 🐍 I’m currently learning more about Typescript, Material-UI and React
 
-
+<br>
+<br>
 <p>
 <a href="https://www.linkedin.com/in/madhusree-bera-89191113b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:madhusreebera1999@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
+<br>
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 
@@ -28,7 +30,7 @@
 <a href="https://www.python.org" target="_blank"> <img src="images/python.png" alt="python" width="50" height="50" title="Python"/> </a>&nbsp;
 
 
-
+<br>
 <h2>🐱 &nbsp;Github Information</h2>
 
 
