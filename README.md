@@ -5,6 +5,7 @@
 <img align="right" width="550px" height="400px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 ### 👋Hi! I am Madhusree Bera
+- 🤓 I'm currently pursuing B.Tech in Computer Science & Engineering
 - 🔭 I’m currently working on website of EDGE (tech-fest of my college) as a front-end developer
 - 🐍 I’m currently learning more about Typescript, Material-UI and React
 
