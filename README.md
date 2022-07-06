@@ -5,8 +5,7 @@
 <img align="right" width="550px" height="400px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 ### 👋Hi! I am Madhusree Bera
-- 🤓 I'm currently pursuing B.Tech in Computer Science & Engineering
-- 🔭 I’m currently participating in GSSoC'22 as a contributor
+- 🤓 I'm currently pursuing M.Tech in Computer Science & Information Security
 
 <br>
 <br>
