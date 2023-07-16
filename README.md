@@ -6,7 +6,9 @@
 <img align="right" width="550px" height="400px" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> 
 
 ### 👋Hi! I am Madhusree Bera
-- 🤓 I'm currently pursuing M.Tech in Computer Science & Information Security
+- I'm currently pursuing M.Tech in Computer Science & Information Security at IIIT, Hyderabad 
+- I love to develop web applications
+- I am interested in Blockchain.
 
 <br>
 <br>
@@ -25,8 +27,3 @@
 &nbsp;<a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="50" height="50" title="CSS"/> </a> &nbsp;<a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="50" height="50" title="HTML"/> </a>&nbsp; <a href="https://www.mysql.com/" target="_blank"> <img src="images/sql.png" alt="mysql" width="50" height="50" title="MySQL"/></a> &nbsp; <a href="https://nodejs.org/en/" target="_blank"> <img src="images/nodejs.jpg" alt="NodeJS" width="50" height="50" title="NodeJS"/> </a> &nbsp; <a href="https://reactjs.org/" target="_blank"> <img src="images/react.png" alt="react" width="50" height="50" title="React"/> </a>&nbsp; <a href="https://www.python.org" target="_blank">  </a>&nbsp;
 
 
-<br>
-<h2>🐱 &nbsp;Github Information</h2>
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhusreebera&show_icons=true&theme=radical&count_private=true" alt="madhusree" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhusreebera&show_icons=true&theme=radical&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="mostlanguagesused"/>
